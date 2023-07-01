@@ -1,0 +1,9 @@
+/* styles.css */
+.header {
+    display: flex;
+    
+    justify-content: center; /* Align items along the main axis (horizontally) */
+    border: 1px solid #ccc; /* Add a 1px solid border around the header */
+    padding: 25px;
+
+  }
